@@ -48,6 +48,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -73,6 +74,7 @@ p {
     margin-left: 20px;
 }
 
+/* Benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -132,6 +134,7 @@ p {
     max-width: 150px;
 }
 
+/* Content */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -179,7 +182,7 @@ p {
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    display: inline;
+    display: inline-block;
 }
 
 .social-media-marketing h2 {
@@ -187,6 +190,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
