@@ -179,6 +179,7 @@ p {
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    display: inline;
 }
 
 .social-media-marketing h2 {
