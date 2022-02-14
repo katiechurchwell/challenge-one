@@ -1,6 +1,6 @@
 # Horiseon
-  [![project-languages-used](https://img.shields.io/github/languages/count/katiechurchwell/horiseon?color=important)](https://github.com/katiechurchwell/readme-generator)
-  [![project-top-language](https://img.shields.io/github/languages/top/katiechurchwell/horiseon?color=blueviolet)](https://github.com/katiechurchwell/readme-generator)
+  [![project-languages-used](https://img.shields.io/github/languages/count/katiechurchwell/horiseon?color=important)](https://github.com/katiechurchwell/horiseon)
+  [![project-top-language](https://img.shields.io/github/languages/top/katiechurchwell/horiseon?color=blueviolet)](https://github.com/katiechurchwell/horiseon)
 
 ## Summary
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?flat&logo=html5&logoColor=white)
